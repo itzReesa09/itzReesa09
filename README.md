@@ -1,5 +1,10 @@
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZyZXVoY3g4eGk2cW1nZGJvaGJ3b2Vud3B0b3NkenUwN2tzZXR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  />
+  <br/>
+  <!-- Visitor Counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=itzReesa09&icon=0&color=5" alt="Visitor Count"/>
+  </a>
 </div>
 
 ###
