@@ -1,43 +1,120 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZyZXVoY3g4eGk2cW1nZGJvaGJ3b2Vud3B0b3NkenUwN2tzZXR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  />
-  <br/>
+<!-- Use a slightly higher quality or more focused GIF -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZyZXVoY3g4eGk2cW1nZGJvaGJ3b2Vud3B0b3NkenUwN2tzZXR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" alt="Coding GIF" width="300" style="border-radius: 10px;"/>
+
+
+
+
+
+<!-- Cleaned up visitor badge -->
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DitzReesa09%26style%3Dfor-the-badge%26color%3Dblue" alt="Profile views"/>
 </div>
 
+🌟 Hello there! I'm Reesa!
+
+👋 I'm a passionate Developer, Project Builder, and Lifelong Learner dedicated to transforming ideas into functional, meaningful software solutions. I thrive on building full-stack applications and constantly expanding my expertise across various technologies. Let's connect and build something great!
+
+🌍 Find Me Online:
+
+Platform
+
+Link
+
+LinkedIn
+
+
+
+Facebook
+
+
+
+Instagram
+
+
+
+Portfolio
+
+
+
+🚀 Technology Toolbox
+
+I am proficient in a wide range of languages, frameworks, and database technologies, focusing on creating efficient and scalable applications.
+
+🌐 Frontend & Languages
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+💻 Backend & Databases
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="NodeJS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dwhite" alt="Firebase" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Oracle-F80000%3Fstyle%3Dfor-the-badge%26logo%3Doracle%26logoColor%3Dwhite" alt="Oracle" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache-D22128%3Fstyle%3Dfor-the-badge%26logo%3Dapache%26logoColor%3Dwhite" alt="Apache" />
+</p>
+
+🎨 Design & Other Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WordPress-21759B%3Fstyle%3Dfor-the-badge%26logo%3DWordPress%26logoColor%3Dwhite" alt="WordPress" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Adobe-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite" alt="Adobe" />
+</p>
+
+📈 GitHub & Development Metrics
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itzReesa09.itzReesa09&"  />
+<table>
+<tr>
+<td width="50%">
+<!-- Stats Card - Using a simpler, less cluttered theme -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DitzReesa09%26theme%3Dgithub_dark%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue%26rank_icon%3Dgithub" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<!-- Top Languages Card - Using a compact layout for neatness -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DitzReesa09%26theme%3Dgithub_dark%26hide_border%3Dtrue%26layout%3Dcompact" alt="Top Languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<!-- Streak Stats - Centered -->
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DitzReesa09%26theme%3Ddark%26hide_border%3Dtrue%26card_width%3D600" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </div>
 
-###
+🏆 Achievements and Trophies
 
-# 💫 About Me:
-👋 Hi, I'm Reesa!<br>🚀 Developer • Project Builder • Lifelong Learner<br><br>I enjoy creating meaningful projects, sharpening my skills, and expanding my knowledge one day at a time.
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DitzReesa09%26theme%3Djuicy-brain%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies"/>
+</div>
 
+✨ Fun Facts & Dev Philosophy
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/claresa.siman.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cnrsnery) 
+<p align="left">
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Ddark" alt="Random Dev Quote"/>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzReesa09&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itzReesa09&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzReesa09&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎧 My Fuel: I absolutely code with music! Currently on rotation: Synthwave and lo-fi beats.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itzReesa09&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+☕ Always by my side: A steaming cup of coffee—essential for debugging late-night ideas.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💡 Motto: “The best way to predict the future is to create it.”
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itzReesa09&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+🌱 Learning Now: Deepening my skills in React hooks and advanced database indexing.
 
----
-[![](https://visitcount.itsvg.in/api?id=itzReesa09&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left">✨ Fun Facts<br><br>🎧 I code with music<br><br>☕ And always with coffee by my side</p>
-
-###
+<div align="center">
+<!-- Dynamic Footer Quote for a cute touch -->
+<img src="https://www.google.com/search?q=https://camo.githubusercontent.com/f25a95f939e01237e897931c815779c6d4838ac1d08e5c54876b5d27d532af41/68747470733a2f2f7777772e6c696e65746f6f6c732e636f6d2f62616e6e6572732f62616e6e6572312e676966" alt="End Banner" />
+</div>
