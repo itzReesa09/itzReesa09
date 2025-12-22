@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZyZXVoY3g4eGk2cW1nZGJvaGJ3b2Vud3B0b3NkenUwN2tzZXR6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" alt="Coding GIF" />
-  <br/>
-  <img height="100" src="https://media.giphy.com/media/3o7TKz9bX9Z9Q9Q9Q9/giphy.gif" alt="Cute Cat Coding GIF" />  <!-- Added cute cat GIF for extra cuteness -->
+  <br/> <!-- Added cute cat GIF for extra cuteness -->
 </div>
 
 <div align="center">
@@ -90,15 +89,6 @@ Feel free to explore my repos, connect, or collaborate—let's build something a
   <img src="https://github-contributor-stats.vercel.app/api?username=itzReesa09&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-# 🚀 Featured Projects
-Here are some of my favorite projects—feel free to check them out and star if you like them! (These will auto-populate from your pinned repos on GitHub.)
-
-<!-- Replace with your actual pinned repos or manually list them -->
-- [**Project Name 1**](https://github.com/itzReesa09/repo1) - Brief description of what it does.
-- [**Project Name 2**](https://github.com/itzReesa09/repo2) - Brief description.
-- [**Project Name 3**](https://github.com/itzReesa09/repo3) - Brief description.
-
-*(Tip: Pin repos on GitHub to make this section dynamic!)*
 
 # 🐝 Support Me (If You Feel Like It!)
 If my projects or code snippets have helped you, consider buying me a coffee—it's the cutest way to say thanks! ☕😊  
@@ -106,9 +96,6 @@ If my projects or code snippets have helped you, consider buying me a coffee—i
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=itzReesa09&icon=0&color=5" alt="Visit Count" />
-</div>
 
 <div align="center">
   <h3>💬 Let's Chat!</h3>
@@ -116,4 +103,3 @@ If my projects or code snippets have helped you, consider buying me a coffee—i
   <p><em>Profile last updated: [Auto-insert date if using Actions]</em></p>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
